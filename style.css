@@ -8,23 +8,23 @@ body {
 }
 
 /* Style des <p> remplaçant le texte en images */
-.col-sm-12 .agency-description{
+.col-sm-12.agency-description{
     margin: 0 5rem 0 5rem;
     font-size: 1.5rem;
     font-weight: 600;
     text-align: center;
 }
-.col-xs-12 .review {
+.col-xs-12.review {
     margin: 0 5rem 0.5rem 5rem;
     font-size: 1.9rem;
     font-weight: 600;
     font-style: italic;
     text-align: center;
 }
-.col-xs-12 .client-name {
+.col-xs-12.client-name {
     font-size: 1.8rem;
 }
-.col-sm-12 .work-intro-sentence{
+.col-sm-12.work-intro-sentence{
     font-size: 2.2rem;
     text-align: center;
 }
