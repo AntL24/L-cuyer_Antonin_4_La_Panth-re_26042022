@@ -9,12 +9,13 @@ body {
 
 /* Style des <p> remplaçant le texte en images */
 .col-sm-12 .agency-description{
+    margin: 0 5rem 0 5rem;
     font-size: 1.5rem;
     font-weight: 600;
     text-align: center;
 }
 .col-xs-12 .review {
-    margin: 0 1rem 0.5rem 1rem;
+    margin: 0 5rem 0.5rem 5rem;
     font-size: 1.9rem;
     font-weight: 600;
     font-style: italic;
