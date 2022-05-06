@@ -44,14 +44,26 @@ body {
     display: flex;
     flex-direction: column;
     padding: 0 2rem 0 2rem;
-}
-.lets-talk{
-
+    justify-content: center;
 }
 .description-contact{
-
+    font-size: 1rem;
+}
+.contact-navbar{
+    display: flex;
+    flex-direction: row;
 }
 
+/*navbar contact*/
+
+.minimalist-nav-bar{
+    display: flex;
+    flex-direction: row;
+    padding: 1rem 1rem 1rem 1rem;
+}
+.nav-bar{
+    padding-top: 1rem;
+}
 /* Fin des modifications */
 
 a,
