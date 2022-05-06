@@ -29,6 +29,17 @@ body {
     text-align: center;
 }
 
+/* Style des formulations sur la page contact*/
+.col-sm-6{
+    display: flex;
+    flex-direction: column;
+    padding: 0 5rem 0 5rem;
+}
+.form-group{
+    display: flex;
+    flex-direction: column;
+    padding-top: 1rem;
+}
 
 
 a,
