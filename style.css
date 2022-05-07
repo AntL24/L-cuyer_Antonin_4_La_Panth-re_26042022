@@ -29,7 +29,7 @@ body {
     text-align: center;
 }
 
-/* Style des formulations sur la page contact*/
+/* Style des formulaires sur la page contact*/
 .col-sm-6{
     display: flex;
     flex-direction: column;
@@ -49,9 +49,8 @@ body {
 .description-contact{
     font-size: 1rem;
 }
-.contact-navbar{
-    display: flex;
-    flex-direction: row;
+.bloc-button:hover{
+    cursor: pointer;
 }
 
 /*navbar contact*/
