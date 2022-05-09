@@ -4286,7 +4286,7 @@ tbody.collapse.in {
     margin-left: 2px;
     vertical-align: middle;
     border-top: 4px dashed;
-    border-top: 4px solid;
+    border-top: 4px solid\9;
     border-right: 4px solid transparent;
     border-left: 4px solid transparent
 }
@@ -4373,25 +4373,25 @@ tbody.collapse.in {
     cursor: not-allowed;
     background-color: transparent;
     background-image: none;
-    filter: progid:DXImageTransform.Microsoft.gradient(enabled=false);
+    filter: progid:DXImageTransform.Microsoft.gradient(enabled=false)
 }
 
 .open>.dropdown-menu {
-    display: block;
+    display: block
 }
 
 .open>a {
-    outline: 0;
+    outline: 0
 }
 
 .dropdown-menu-right {
     right: 0;
-    left: auto;
+    left: auto
 }
 
 .dropdown-menu-left {
     right: auto;
-    left: 0;
+    left: 0
 }
 
 .dropdown-header {
@@ -4400,7 +4400,7 @@ tbody.collapse.in {
     font-size: 12px;
     line-height: 1.42857143;
     color: #777;
-    white-space: nowrap;
+    white-space: nowrap
 }
 
 .dropdown-backdrop {
@@ -4409,7 +4409,7 @@ tbody.collapse.in {
     right: 0;
     bottom: 0;
     left: 0;
-    z-index: 990;
+    z-index: 990
 }
 
 .pull-right>.dropdown-menu {
@@ -4422,7 +4422,7 @@ tbody.collapse.in {
     content: "";
     border-top: 0;
     border-bottom: 4px dashed;
-    border-bottom: 4px solid;
+    border-bottom: 4px solid\9
 }
 
 .dropup .dropdown-menu,
