@@ -3083,7 +3083,7 @@ legend {
     line-height: inherit;
     color: #333;
     border: 0;
-    border-bottom: 1px solid #e5e5e5
+    border-bottom: 1px solid #e5e5e5;
 }
 
 label {
@@ -3096,14 +3096,14 @@ label {
 input[type=search] {
     -webkit-box-sizing: border-box;
     -moz-box-sizing: border-box;
-    box-sizing: border-box
+    box-sizing: border-box;
 }
 
 input[type=checkbox],
 input[type=radio] {
     margin: 4px 0 0;
     margin-top: 1px\9;
-    line-height: normal
+    line-height: normal;
 }
 
 input[type=file] {
@@ -5115,19 +5115,19 @@ textarea.input-group-sm>.input-group-btn>.btn {
     .navbar-fixed-top .navbar-collapse,
     .navbar-static-top .navbar-collapse {
         padding-right: 0;
-        padding-left: 0
+        padding-left: 0;
     }
 }
 
 .navbar-fixed-bottom .navbar-collapse,
 .navbar-fixed-top .navbar-collapse {
-    max-height: 340px
+    max-height: 340px;
 }
 
 @media (max-width:480px) and (orientation:landscape) {
     .navbar-fixed-bottom .navbar-collapse,
     .navbar-fixed-top .navbar-collapse {
-        max-height: 200px
+        max-height: 200px;
     }
 }
 
@@ -5263,7 +5263,7 @@ textarea.input-group-sm>.input-group-btn>.btn {
         background-color: transparent;
         border: 0;
         -webkit-box-shadow: none;
-        box-shadow: none
+        box-shadow: none;
     }
     .navbar-nav .open .dropdown-menu .dropdown-header,
     .navbar-nav .open .dropdown-menu>li>a {
