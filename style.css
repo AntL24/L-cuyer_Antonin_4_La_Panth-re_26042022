@@ -718,8 +718,14 @@ a {
     max-width: 1000px;
 }
 
+/*Modification demandée par l'examinateur*/
+
 .hero-bloc-text {
     font-size: 38px;
+    color: black;
+}
+.title-lets-talk{
+    color: black;
 }
 
 .hero-bloc-text-sub {
@@ -737,7 +743,7 @@ a {
 }
 
 p {
-    font-size: 12px;
+    font-size: 16px;
 }
 
 .tight-width-whitespace {
@@ -835,7 +841,7 @@ h4 {
 }
 
 .tc-white {
-    color: white!important;
+    color: white;
 }
 
 .btn-atomic-tangerine {
@@ -855,6 +861,15 @@ h4 {
 .ltc-white:hover {
     color: #cccccc!important;
 }
+
+/*modification demandée par l'examinateur*/
+
+.description-contact{
+    color: black!important;
+    font-size: 1.1rem;
+    font-weight: bold;
+}
+
 
 .ltc-atomic-tangerine {
     color: #f37c45!important;
